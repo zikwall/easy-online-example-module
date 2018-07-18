@@ -1,0 +1,9 @@
+{
+    "id": "example",
+    "name": "Example Module",
+    "description": "App example presentator module",
+    "keywords": [
+        "example"
+    ],
+    "version": "1.0.0"
+}

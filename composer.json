@@ -1,0 +1,24 @@
+{
+  "name": "zikwall/encore-example-module",
+  "description": "example enCore module",
+  "keywords": ["framework", "yii2", "core", "module", "zikwall"],
+  "type": "encore-module",
+  "support": {
+    "issues": "https://github.com/zikwall/en-core/issues?state=open",
+    "source": "https://github.com/zikwall/en-cre"
+  },
+  "authors": [
+    {
+      "name": "Andrey Kapitonov",
+      "email": "andrey.kapitonov.96@gmall.com"
+    }
+  ],
+  "require": {
+    "zikwall/encore-installer": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "zikwall\\encore\\modules\\example\\": ""
+    }
+  }
+}
