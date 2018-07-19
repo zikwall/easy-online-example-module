@@ -2,7 +2,7 @@
   "name": "zikwall/encore-example-module",
   "description": "example enCore module",
   "keywords": ["framework", "yii2", "core", "module", "zikwall"],
-  "type": "encore-core-module",
+  "type": "encore-module",
   "support": {
     "issues": "https://github.com/zikwall/en-core/issues?state=open",
     "source": "https://github.com/zikwall/en-cre"
