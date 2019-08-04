@@ -14,12 +14,12 @@
     }
   ],
   "require": {
-    "zikwall/encore-installer": "~0.0.1",
-    "zikwall/en-core": "~0.1.1"
+    "zikwall/easy-online-composer": "~1.0.0",
+    "zikwall/easy-online": "~0.0.1"
   },
   "autoload": {
     "psr-4": {
-      "zikwall\\encore\\modules\\example\\": ""
+      "zikwall\\easyonline\\modules\\example\\": ""
     }
   }
 }

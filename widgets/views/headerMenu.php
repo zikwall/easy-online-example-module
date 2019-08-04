@@ -1,5 +1,5 @@
 <?php
-    use zikwall\encore\modules\core\libs\Html;
+    use zikwall\easyonline\modules\core\libs\Html;
 ?>
 <nav class="navbar navbar-expand-lg bg-primary fixed-top">
     <div class="container">
@@ -10,7 +10,7 @@
                 <span class="button-bar"></span>
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <?= \zikwall\encore\modules\example\widgets\LeftStackMenu::widget(); ?>
+                <?= \zikwall\easyonline\modules\example\widgets\LeftStackMenu::widget(); ?>
             </div>
         </div>
         <div class="navbar-translate">
@@ -56,7 +56,7 @@
                         <i class="now-ui-icons users_circle-08" aria-hidden="true"></i>
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                        <?= \zikwall\encore\modules\user\widgets\AccountTopMenu::widget(); ?>
+                        <?= \zikwall\easyonline\modules\user\widgets\AccountTopMenu::widget(); ?>
                     </div>
                 </li>
                 <?php endif; ?>

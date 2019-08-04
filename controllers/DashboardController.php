@@ -1,8 +1,8 @@
 <?php
 
-namespace zikwall\encore\modules\example\controllers;
+namespace zikwall\easyonline\modules\example\controllers;
 
-use zikwall\encore\modules\core\components\FrontendController;
+use zikwall\easyonline\modules\core\components\FrontendController;
 
 class DashboardController extends FrontendController
 {

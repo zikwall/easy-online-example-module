@@ -1,10 +1,10 @@
 <?php
 
-namespace zikwall\encore\modules\example;
+namespace zikwall\easyonline\modules\example;
 
 use Yii;
 use yii\helpers\Url;
-use zikwall\encore\modules\example\widgets\onEventWidget;
+use zikwall\easyonline\modules\example\widgets\onEventWidget;
 
 class Events extends \yii\base\Object
 {

@@ -1,15 +1,15 @@
 <?php
 
-namespace zikwall\encore\modules\example;
+namespace zikwall\easyonline\modules\example;
 
 use Yii;
 
-class Module extends \zikwall\encore\modules\core\components\Module
+class Module extends \zikwall\easyonline\modules\core\components\Module
 {
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'zikwall\encore\modules\example\controllers';
+    public $controllerNamespace = 'zikwall\easyonline\modules\example\controllers';
 
     public function getName()
     {

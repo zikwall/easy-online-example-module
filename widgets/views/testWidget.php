@@ -7,10 +7,10 @@
                 <hr>
                 <pre>
                     <code class="hljs php" style="">
-zikwall\encore\modules\example\widgets\Sidebar::widget([
+zikwall\easyonline\modules\example\widgets\Sidebar::widget([
     'widgets' => [
         [
-            \zikwall\encore\modules\example\widgets\TestWidget::className(), [],
+            \zikwall\easyonline\modules\example\widgets\TestWidget::className(), [],
             ['sortOrder' => 150]
         ],
     ]

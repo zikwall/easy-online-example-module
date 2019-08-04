@@ -1,10 +1,10 @@
 <?php
 
-namespace zikwall\encore\modules\example\widgets;
+namespace zikwall\easyonline\modules\example\widgets;
 
-use zikwall\encore\modules\core\widgets\BaseSidebar;
+use zikwall\easyonline\modules\core\widgets\BaseSidebar;
 
 class Sidebar extends BaseSidebar
 {
-    
+
 }

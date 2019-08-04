@@ -95,10 +95,10 @@
             </div>
         </div>
         <div class="col-md-4">
-            <?= zikwall\encore\modules\example\widgets\Sidebar::widget([
+            <?= zikwall\easyonline\modules\example\widgets\Sidebar::widget([
                 'widgets' => [
                     [
-                        \zikwall\encore\modules\example\widgets\TestWidget::className(),
+                        \zikwall\easyonline\modules\example\widgets\TestWidget::className(),
                         [],
                         ['sortOrder' => 150]
                     ],

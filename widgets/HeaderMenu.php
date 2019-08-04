@@ -1,8 +1,8 @@
 <?php
 
-namespace zikwall\encore\modules\example\widgets;
+namespace zikwall\easyonline\modules\example\widgets;
 
-use zikwall\encore\modules\core\widgets\BaseMenu;
+use zikwall\easyonline\modules\core\widgets\BaseMenu;
 
 class HeaderMenu extends BaseMenu
 {
