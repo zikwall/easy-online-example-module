@@ -1,8 +1,8 @@
 {
-  "name": "zikwall/encore-example-module",
+  "name": "zikwall/easy-online-example-module",
   "description": "example enCore module",
   "keywords": ["framework", "yii2", "core", "module", "zikwall"],
-  "type": "encore-module",
+  "type": "easy-online-module",
   "support": {
     "issues": "https://github.com/zikwall/en-core/issues?state=open",
     "source": "https://github.com/zikwall/en-cre"
